@@ -125,7 +125,6 @@ ARIMA-Financial-Time-Series/
 │   └── train_test_forecast.png
 ├── AAPL10Y.csv                        # Raw Apple stock data (10 years)
 ├── ARIMA_AAPL_Stock_Forecasting.ipynb # Main notebook
-├── ARIMA_Model_Summary.pdf           # Exported ARIMA summary report
 └── README.md                         # This file
 ```
 
@@ -133,8 +132,8 @@ ARIMA-Financial-Time-Series/
 
 ## 🌟 Author
 
-**Shozab Megatron**  
-🔗 [LinkedIn](https://www.linkedin.com/in/shozab-n/) • [GitHub](https://github.com/shozab-megatron)
+**Shozab Naqvi**  
+🔗 [LinkedIn](https://www.linkedin.com/in/shozab-n/) • [GitHub](https://github.com/Shozabn)
 ⭐ If you found this project helpful, feel free to give it a star or connect with me on LinkedIn!
 
 ---
