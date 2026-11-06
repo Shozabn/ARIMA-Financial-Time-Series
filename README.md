@@ -82,7 +82,8 @@ Green area = 2-week forecast with upper/lower confidence bounds.
 ## Results Summary
 
 - **Model Used:** ARIMA(3,0,1)
-- **Forecast Horizon:** 10 weeks ahead
+- **Forecast Horizon:** 2-week short-term forecast and 10-week extended forecast, both with confidence intervals
+- **Backtest Metrics:** MSE 0.0009 · MAE 0.0227 · MAPE 1.38%
 - **Evaluation:** Visual inspection showed strong alignment between forecasted and actual log returns
 - **Residuals:** No autocorrelation or heteroscedasticity — indicating a well-behaved model
 
